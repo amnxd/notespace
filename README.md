@@ -1,1 +1,2 @@
-# notes_pace
+# NoteSpace
+ A simple notes saving website
